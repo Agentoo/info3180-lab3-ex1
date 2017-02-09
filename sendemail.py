@@ -6,8 +6,6 @@ to_addr = 'ainsley.denton47@gmail.com'
 message = """From: {} <{}> 
 To: {} <{}> 
 Subject: {}
-
-
  
 {} 
 """
@@ -22,8 +20,8 @@ message_to_send = message.format(from_name, from_addr, to_name, to_addr, subject
 
 
 # Credentials (if needed) 
-username = 'info3180.ainsley@gmail.com' 
-password = 'p@$$w0rd!!!' 
+username = 'username removed' 
+password = 'password removed' 
 
 
 # The actual mail send 
